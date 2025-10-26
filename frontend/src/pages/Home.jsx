@@ -24,11 +24,7 @@ export default function Home() {
       {/* ---------- HERO ---------- */}
       <section className="relative min-h-screen flex items-center justify-center text-center overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-br from-emerald-800 via-teal-500 to-emerald-400">
-          <img
-            src="/img-1.png"
-            alt="wellness"
-            className="w-full h-full object-cover mix-blend-overlay opacity-40"
-          />
+          
         </div>
 
         <div className="relative z-10 max-w-3xl px-6 text-white">
